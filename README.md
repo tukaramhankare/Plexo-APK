@@ -6,7 +6,8 @@ Android as 'Plexo.apk'.
 
 MIT License
 
-Copyright (c) 2026 Anmol Kapil (First Coder and Author of His 
+Copyright (c) 2026 Anmol Kapil (First Coder and Author of His own Code work)
+
 Copyright (c) 2026 Tukaram Hankare (2nd Developer and
 Co-writer for Code of build '.apk' as Plexo for Android.
 
